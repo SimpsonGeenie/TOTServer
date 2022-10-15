@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="classes">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/TripOrTrap/WEB-INF/classes/commons-io-2.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/TripOrTrap/WEB-INF/classes/jericho-html-3.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/TripOrTrap/WEB-INF/classes/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/TripOrTrap/WEB-INF/classes/json-simple-1.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/TripOrTrap/WEB-INF/classes/commons-net-3.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/TripOrTrap/WEB-INF/classes/mysql-connector-java-5.1.37-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/TripOrTrap/WEB-INF/classes/commons-collections-3.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/TripOrTrap/WEB-INF/classes/commons-lang3-3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/TripOrTrap/WEB-INF/classes/ojdbc6_g.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/TripOrTrap/WEB-INF/classes/ezmorph-1.0.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/TripOrTrap/WEB-INF/classes/commons-fileupload-1.2.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/TripOrTrap/WEB-INF/classes/jstl-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/TripOrTrap/WEB-INF/classes/cos.jar!/" />
+      <root url="jar://$PROJECT_DIR$/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/TripOrTrap/WEB-INF/classes/commons-beanutils-1.9.3.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

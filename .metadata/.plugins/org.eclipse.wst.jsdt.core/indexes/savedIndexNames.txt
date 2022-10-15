@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+F:\Pic\포트폴리오\TripOrTrap\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1536429619.index
+379608274.index
+1900563391.index
+2428870872.index
+4259138808.index
+4211643311.index
+3757049890.index
